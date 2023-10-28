@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile! I'm a passionate tech enthusiast with a focus on Internet Performance Analysis, Automation & Optimization, and a strong background in various technical areas.
+
+Let's connect and build awesome things together! 🚀
+
 <!--
 **bbenyr/bbenyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
